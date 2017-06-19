@@ -1,1 +1,41 @@
 /* Broadway project */
+body {
+  font-family: Helvetica;
+  background-color: white;
+  text-align: center;
+}
+header {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: white;
+}
+.navlink {
+  font-size: 18px;
+  color: inherit;
+}
+#divider {
+  background-image: url("../images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
